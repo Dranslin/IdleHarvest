@@ -1,18 +1,18 @@
 {
-    "id": "ff807d2b-f97e-4f91-9fe2-7bb5216c7c23",
+    "id": "a845f01b-f415-405c-abdb-51d23bc8314c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Worker",
+    "name": "obj_ButtonRockSubtract",
     "eventList": [
         {
-            "id": "0189372e-a3bb-4506-97dd-c464fe0c527c",
+            "id": "ce446e74-2a10-4dc0-b667-77a70066d562",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "ff807d2b-f97e-4f91-9fe2-7bb5216c7c23"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "a845f01b-f415-405c-abdb-51d23bc8314c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b22829e8-b809-433f-873c-946fe3b63217",
+    "spriteId": "9320d1ef-2c29-4653-8b92-10477a76c798",
     "visible": true
 }

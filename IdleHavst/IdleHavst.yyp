@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "09a8e68f-9bf3-40d3-be5b-a50257caad27",
+            "Value": {
+                "id": "2e90645f-8dc9-4086-b510-ed7e39defb9e",
+                "resourcePath": "objects\\obj_Resources\\obj_Resources.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "148481a1-639c-4dba-8af9-ca4179b2462a",
             "Value": {
                 "id": "b9398374-1340-4fe5-b713-24a3534fc3dd",
@@ -76,6 +84,38 @@
                 "id": "15524089-8284-4613-9336-04c1e0a41520",
                 "resourcePath": "views\\1c3ec8c5-b819-4c45-8812-45682e8b62d2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "249750b7-a1e1-4f2c-9cce-381499388d2c",
+            "Value": {
+                "id": "cb283dda-35e8-4df3-93d3-2166f9c9e4aa",
+                "resourcePath": "objects\\obj_RockCounterBox\\obj_RockCounterBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "26c0aa3c-1211-492e-99e8-e7b8450b8ac4",
+            "Value": {
+                "id": "834c1fb5-913e-4d3f-9c3c-7ce9f4ca7c63",
+                "resourcePath": "objects\\obj_ButtonForestSubtract\\obj_ButtonForestSubtract.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "28a294fb-bdc9-49f7-bcf6-ce4c3fd9ad34",
+            "Value": {
+                "id": "83f79164-f937-48cb-9a37-37befcdd6b1b",
+                "resourcePath": "objects\\obj_ButtonForestAdd\\obj_ButtonForestAdd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29c17b8a-b41f-424c-8078-d6f5f27c7d04",
+            "Value": {
+                "id": "1ffeb8ce-2870-4054-969e-d7aceb804502",
+                "resourcePath": "sprites\\spr_CounterBox\\spr_CounterBox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,6 +159,14 @@
             }
         },
         {
+            "Key": "4f9489c5-1a7d-4b09-9996-090917cd696c",
+            "Value": {
+                "id": "f6971db1-1eb7-43b6-a160-3a1b2f6f1684",
+                "resourcePath": "sprites\\spr_Add\\spr_Add.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "53faf659-f17c-4741-a404-de26b72d1280",
             "Value": {
                 "id": "c2dffc07-ed88-4e57-857d-10b5c8651b22",
@@ -143,11 +191,27 @@
             }
         },
         {
+            "Key": "60b6cb6d-5bc7-4b89-9265-6d3b41d52546",
+            "Value": {
+                "id": "d073fd75-feb1-4875-8459-955f8a2e5587",
+                "resourcePath": "objects\\obj_ButtonRocktAdd\\obj_ButtonRocktAdd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "60c5528e-6b27-4562-ac73-009c7234f826",
             "Value": {
                 "id": "68aa78bc-9c22-494e-938e-05ab49523adb",
                 "resourcePath": "views\\60c5528e-6b27-4562-ac73-009c7234f826.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "731fdbc3-acd4-4cdf-ae59-9cd6f194c60e",
+            "Value": {
+                "id": "4f4c06fb-101f-4a7b-af75-c3554c1e6408",
+                "resourcePath": "objects\\obj_MineCounterBox\\obj_MineCounterBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -175,11 +239,35 @@
             }
         },
         {
+            "Key": "86cf217b-df0a-409a-a6eb-c3a19f664548",
+            "Value": {
+                "id": "2d0a0c71-3f9b-4089-8b4e-4d18460fff71",
+                "resourcePath": "sprites\\spr_Resources\\spr_Resources.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8ec1266b-af5f-4b7c-99a7-cea1508773ad",
             "Value": {
                 "id": "8675f4e9-ebcc-482c-b3ca-b742061a1c5b",
                 "resourcePath": "views\\8ec1266b-af5f-4b7c-99a7-cea1508773ad.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90937bb5-8a77-4ae8-8d6e-4718f2c848e1",
+            "Value": {
+                "id": "69c337b6-dfe5-4580-8a2b-2f3f71c999f8",
+                "resourcePath": "objects\\obj_ButtonMineSubtract\\obj_ButtonMineSubtract.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9320d1ef-2c29-4653-8b92-10477a76c798",
+            "Value": {
+                "id": "4045cce9-0f6b-4cce-9155-8182f26b36f5",
+                "resourcePath": "sprites\\spr_Subtract\\spr_Subtract.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -196,6 +284,14 @@
                 "id": "58801190-4c01-4521-92ec-1655eaf14a68",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a845f01b-f415-405c-abdb-51d23bc8314c",
+            "Value": {
+                "id": "f130df20-2543-43bc-9760-b2be195c8ad6",
+                "resourcePath": "objects\\obj_ButtonRockSubtract\\obj_ButtonRockSubtract.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -244,6 +340,22 @@
                 "id": "cb9a2fe9-ba1a-4316-9fa0-f8b558c67fe5",
                 "resourcePath": "views\\d5bddf0e-5e43-4162-9646-0d5a6882ca54.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc02e07b-5068-4613-b212-bf59c1b5b31e",
+            "Value": {
+                "id": "c264f055-60db-4d35-8ba7-12c2c892a510",
+                "resourcePath": "objects\\obj_ForestCounterBox\\obj_ForestCounterBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dc44d9fe-3818-4d01-a4e1-8be6c52bc0a8",
+            "Value": {
+                "id": "185818d5-004d-40d8-a672-2a85f961b00e",
+                "resourcePath": "objects\\obj_ButtonMinetAdd\\obj_ButtonMinetAdd.yy",
+                "resourceType": "GMObject"
             }
         },
         {
