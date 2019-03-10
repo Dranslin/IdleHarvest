@@ -1,28 +1,28 @@
 {
-    "id": "1886cd73-09b3-4b1a-8b8e-48f54ef384e9",
+    "id": "20a9911e-f91f-4bf9-91f3-3e1e1ea5e323",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Village",
+    "name": "obj_SpawnVillagerButton",
     "eventList": [
         {
-            "id": "69dbd438-e26b-4878-a772-8068357b33af",
+            "id": "d370ffa9-ec85-4354-a2bf-b8f260d33341",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "1886cd73-09b3-4b1a-8b8e-48f54ef384e9"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "20a9911e-f91f-4bf9-91f3-3e1e1ea5e323"
         },
         {
-            "id": "9cd18b38-7dc5-4b5b-99f5-f3bd1571064f",
+            "id": "3a0e22d0-a04c-4a7d-90a3-acd53d327948",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "1886cd73-09b3-4b1a-8b8e-48f54ef384e9"
+            "m_owner": "20a9911e-f91f-4bf9-91f3-3e1e1ea5e323"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ddc23b54-149d-4f9f-94c2-ee90931ffab7",
+    "spriteId": "f8003f96-883c-46c8-80eb-5cf4f02b0f4f",
     "visible": true
 }

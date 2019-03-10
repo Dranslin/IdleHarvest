@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "1c4787c3-2562-42ae-a1f0-ce19df243565",
+            "Value": {
+                "id": "a4d87eff-5cc3-4678-8bba-0ba6f8d4b0d2",
+                "resourcePath": "sprites\\spr_SpawnRequirementWindow\\spr_SpawnRequirementWindow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "20a9911e-f91f-4bf9-91f3-3e1e1ea5e323",
+            "Value": {
+                "id": "00fc2a56-c6da-4a33-be05-19e8fa5491fe",
+                "resourcePath": "objects\\obj_SpawnVillagerButton\\obj_SpawnVillagerButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "249750b7-a1e1-4f2c-9cce-381499388d2c",
             "Value": {
                 "id": "cb283dda-35e8-4df3-93d3-2166f9c9e4aa",
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "4cd094d3-f121-41c3-8da8-c8a2e81c7da0",
+            "Value": {
+                "id": "7065bee4-b151-47fd-ad59-f5f873445c67",
+                "resourcePath": "objects\\obj_SpawnRequirementWindow\\obj_SpawnRequirementWindow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f9489c5-1a7d-4b09-9996-090917cd696c",
             "Value": {
                 "id": "f6971db1-1eb7-43b6-a160-3a1b2f6f1684",
@@ -204,6 +228,14 @@
                 "id": "68aa78bc-9c22-494e-938e-05ab49523adb",
                 "resourcePath": "views\\60c5528e-6b27-4562-ac73-009c7234f826.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "655c02c3-056c-476b-9c18-ae72546dec45",
+            "Value": {
+                "id": "5b12c3e1-f166-4686-8b4b-180aafdf4615",
+                "resourcePath": "scripts\\wander\\wander.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -284,6 +316,14 @@
                 "id": "58801190-4c01-4521-92ec-1655eaf14a68",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a5378ab4-9e9e-4ec8-8a62-18be7c51d203",
+            "Value": {
+                "id": "dea562cc-0fc5-4dae-a9e8-3a8107cf3778",
+                "resourcePath": "objects\\obj_ManagerGame\\obj_ManagerGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -399,6 +439,14 @@
             }
         },
         {
+            "Key": "f8003f96-883c-46c8-80eb-5cf4f02b0f4f",
+            "Value": {
+                "id": "0554eb27-05fb-498e-81eb-0f666657b933",
+                "resourcePath": "sprites\\spr_SpawnVillagerButton\\spr_SpawnVillagerButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ff807d2b-f97e-4f91-9fe2-7bb5216c7c23",
             "Value": {
                 "id": "1be588fa-a530-44ed-be6d-fbca240f06d5",
@@ -408,7 +456,7 @@
         }
     ],
     "script_order": [
-        
+        "655c02c3-056c-476b-9c18-ae72546dec45"
     ],
     "tutorial": ""
 }

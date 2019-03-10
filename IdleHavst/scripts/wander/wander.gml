@@ -1,0 +1,1 @@
+move_towards_point(irandom_range(300,670),irandom_range(245,560), 1);
