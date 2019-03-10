@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "289e99a0-77c1-4083-921d-e46f2aa9fff7",
+            "Value": {
+                "id": "f84ba741-dbe6-48e9-a554-6d5ab6d4b9d1",
+                "resourcePath": "objects\\obj_RockIcon\\obj_RockIcon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "28a294fb-bdc9-49f7-bcf6-ce4c3fd9ad34",
             "Value": {
                 "id": "83f79164-f937-48cb-9a37-37befcdd6b1b",
@@ -164,6 +172,14 @@
                 "id": "3e769aa5-cee8-47b0-aca0-e6634ac94955",
                 "resourcePath": "objects\\obj_Mine\\obj_Mine.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3fcc72a6-fc06-4b3a-be0b-470656e316b0",
+            "Value": {
+                "id": "af7829e4-d8e5-489c-9135-dc33ea4ec73d",
+                "resourcePath": "sprites\\spr_MineIcon\\spr_MineIcon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,6 +255,22 @@
             }
         },
         {
+            "Key": "6f3aa26f-70a9-48ec-84bb-7a5381d33f55",
+            "Value": {
+                "id": "2fe624ed-128a-4aad-9e1d-5c0a4d2e9a75",
+                "resourcePath": "sprites\\spr_TreeIcon\\spr_TreeIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "730d9df8-b15e-42f6-90d4-966eb00b5a6e",
+            "Value": {
+                "id": "8422e03f-42d9-4a83-9eae-985c72e42b82",
+                "resourcePath": "objects\\obj_TreeIcon\\obj_TreeIcon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "731fdbc3-acd4-4cdf-ae59-9cd6f194c60e",
             "Value": {
                 "id": "4f4c06fb-101f-4a7b-af75-c3554c1e6408",
@@ -308,6 +340,22 @@
                 "id": "04fbbab2-ea6e-4ece-94a8-3bc5eabfb946",
                 "resourcePath": "views\\94571c30-1208-43b3-87c8-6845bf8c7c28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9cc54faf-ec7f-4de1-875d-703425935f5d",
+            "Value": {
+                "id": "09442a8d-fe11-421b-867c-dc07c602f3a4",
+                "resourcePath": "sprites\\spr_RockIcon\\spr_RockIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9d201b86-2310-4c4a-a344-af286e22ca00",
+            "Value": {
+                "id": "f88f2769-548b-4a71-9924-d9a9bde95062",
+                "resourcePath": "objects\\obj_MineIcon\\obj_MineIcon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
